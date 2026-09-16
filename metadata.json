@@ -1,0 +1,6 @@
+{
+  "name": "کارگاه پوشاک",
+  "description": "سیستم جامع مدیریت کارگاه تولید و فروش عمده پوشاک شامل انبار، طاقه، برش، تولید، سفارش، فروش، باربری، مالی و گزارشات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
